@@ -1,4 +1,4 @@
-### Riley McKeever's first CS193 Lab
+## Riley McKeever's first CS193 Lab
 
 ## Favorite Things About CS193
 - There are fun labs
